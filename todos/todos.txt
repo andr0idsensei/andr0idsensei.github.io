@@ -1,5 +1,5 @@
-- add the android sensei logo image
-- see how to integrate disqus comments in a post
+- add the android sensei logo image - done
+- see how to integrate disqus comments in a post - done
 - change the color scheme for the theme
 - integrate google analytics
 - write the first post and publish it
