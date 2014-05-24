@@ -10,17 +10,18 @@ layout: default
         </info>
         {% endunless %}
         <div class="body">{{ content }}</div>
-        <!-- <div class="breaker"></div> -->
         <div class="breaker"></div>        
     </div>  
+
+   {% if page.share == 'y' %}
+        {% include share.html %}
+   {% endif %}
 
     <div class="comments container">
         <div id="disqus_thread"></div>
         <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
         <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
     </div>
-
-    {% include share.html %}
-    
+   
 </div>
 
