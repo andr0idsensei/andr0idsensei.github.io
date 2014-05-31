@@ -2,7 +2,8 @@
 layout: post
 title: Android Sensei Blog - under construction
 date: 2014-05-30 12:22:50
-share: n
+share: y
+disqus: y
 ---
 
 I'm working on my new blog/site which is going to be powered by Jekyll.
