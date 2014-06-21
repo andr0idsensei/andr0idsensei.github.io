@@ -21,7 +21,7 @@ img.blog-title {
 * { margin:0; padding:0; font-family:inherit; }
 body {
     background: #333333;
-    color:#c5e26d;
+    color:#99cc00;
     font:14px 'Poly', georgia, serif;
     line-height:1.5;
     font-weight: lighter;
@@ -38,12 +38,12 @@ div.breaker { clear:both; }
 
 img { border:none; vertical-align:bottom; }
 strong { font-weight:bold; }
-hr { height:1px; border:none; background-color:#ddd; }
+hr { height:1px; border:none; background-color:#999999; }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Poly', helvetica, sans-serif;
     font-weight:normal;
-    color:#669900;
+    color:#d3e992;
     margin: 1.618em 0 1em 0;
     text-rendering: optimizelegibility;
 }
@@ -322,7 +322,7 @@ div.post actions {
 
 div.post info {
     display:inline-block;
-    color: #99cc00;
+    color: #999999;
     border:1px solid rgba(0,0,0,0.05);
     border-left:none; border-right:none;
     padding:8px 0px 8px 60px;
