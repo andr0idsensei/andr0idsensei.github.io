@@ -1,9 +1,10 @@
 - add the android sensei logo image - done
 - see how to integrate disqus comments in a post - done
-- change the color scheme for the theme
+- change the color scheme for the theme - done
 - social network integration - done with addthis
-- about page and disclaimer
 - adjust disqus toggle - done
-- archive improvements?
+- about page and disclaimer
 - integrate google analytics
 - write the first post and publish it
+- improve search design
+- improve UI design based on the jekyll oficial site theme (rounded corners, buttons, links)
