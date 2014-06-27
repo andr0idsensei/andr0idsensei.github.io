@@ -3,6 +3,7 @@
 - change the color scheme for the theme - done
 - social network integration - done with addthis
 - adjust disqus toggle - done
+- fix mobile UI
 - about page and disclaimer
 - integrate google analytics
 - write the first post and publish it

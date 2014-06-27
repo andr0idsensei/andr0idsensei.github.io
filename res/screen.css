@@ -434,7 +434,10 @@ footer a:link {
 /* medium-res devices (e.g. ipad and iphone) */
 @media only screen and (max-device-width: 1024px) {
     /* To constrain pre-formatted text to body width */
-    body { color:black; }
+    body { 
+        background: #333333;
+        color:#99cc00;
+    }
     html.ios pre { overflow:scroll; }
     html.ios pre, html.ios code, html.ios tt { font-size:0.95em; }
     header { margin:0 60px 0 45px; }
@@ -444,10 +447,17 @@ footer a:link {
 
 /* iPhone */
 @media only screen and (max-device-width: 480px) {
+    img.blog-title {
+        margin-top: 20px;
+        height: 40px;
+        width: 180px;
+    }
+
     header {
         height: 120px;
         margin:0 1em 0 0.8em;
     }
+
     header h1 { float:none; }
     header ul.navigation {
         float:none;
