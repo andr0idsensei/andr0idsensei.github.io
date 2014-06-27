@@ -438,6 +438,13 @@ footer a:link {
         background: #333333;
         color:#99cc00;
     }
+
+    img.blog-title {
+        margin-top: 10px;
+        height: 40px;
+        width: 180px;
+    }
+
     html.ios pre { overflow:scroll; }
     html.ios pre, html.ios code, html.ios tt { font-size:0.95em; }
     header { margin:0 60px 0 45px; }
@@ -447,11 +454,6 @@ footer a:link {
 
 /* iPhone */
 @media only screen and (max-device-width: 480px) {
-    img.blog-title {
-        margin-top: 10px;
-        height: 40px;
-        width: 180px;
-    }
 
     header {
         height: 120px;
