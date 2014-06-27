@@ -7,7 +7,7 @@ pygments: true
 permalink: /:year/:month/:day/:title.html
 markdown: redcarpet
 
-google_analytics: #
+google_analytics: UA-7443099-4
 
 owner:
   name: Mihai Campean
