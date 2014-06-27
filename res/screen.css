@@ -448,7 +448,7 @@ footer a:link {
 /* iPhone */
 @media only screen and (max-device-width: 480px) {
     img.blog-title {
-        margin-top: 20px;
+        margin-top: 10px;
         height: 40px;
         width: 180px;
     }
