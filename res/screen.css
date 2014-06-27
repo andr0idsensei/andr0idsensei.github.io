@@ -461,8 +461,7 @@ footer a:link {
     }
 
     header h1 { float:left; }
-    header ul.navigation {
-        text-align: left;
+    header ul.navigation {      
         float: right;
         padding-left:0.1em;
         margin-top: 5px;
