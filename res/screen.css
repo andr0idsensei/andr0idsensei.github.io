@@ -440,7 +440,7 @@ footer a:link {
     }
 
     img.blog-title {
-        margin-top: 10px;
+        margin-top: 30px;
         height: 40px;
         width: 180px;
     }
@@ -460,9 +460,10 @@ footer a:link {
         margin:0 1em 0 0.8em;
     }
 
-    header h1 { float:none; }
+    header h1 { float:left; }
     header ul.navigation {
-        float:none;
+        text-align: left;
+        float: right;
         padding-left:0.1em;
         margin-top: 5px;
     }
