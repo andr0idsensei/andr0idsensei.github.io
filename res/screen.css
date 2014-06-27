@@ -464,7 +464,7 @@ footer a:link {
     header ul.navigation {      
         float: right;
         padding-left:0.1em;
-        margin-top: 5px;
+        margin-top: 30px;
     }
 
     h1,h2 { font-size: 160%; }
