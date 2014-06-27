@@ -21,7 +21,7 @@ img.blog-title {
 * { margin:0; padding:0; font-family:inherit; }
 body {
     background: #333333;
-    color:#99cc00;
+    color:#d3e992;
     font:14px 'Poly', georgia, serif;
     line-height:1.5;
     font-weight: lighter;
@@ -42,8 +42,8 @@ hr { height:1px; border:none; background-color:#999999; }
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Poly', helvetica, sans-serif;
-    font-weight:normal;
-    color:#d3e992;
+    font-weight: normal;
+    color: #99cc00;
     margin: 1.618em 0 1em 0;
     text-rendering: optimizelegibility;
 }
@@ -286,6 +286,12 @@ a.post-excerpt info {
     /*margin-bottom:3em;*/
 }
 
+p.info {
+    display:inline-block;
+    color:#999999;
+    font-style:italic;
+}
+
 /* --------------------------------------------------------------------------------------------- */
 /* photo post */
 
@@ -436,7 +442,7 @@ footer a:link {
     /* To constrain pre-formatted text to body width */
     body { 
         background: #333333;
-        color:#99cc00;
+        color:#d3e992;
     }
 
     img.blog-title {

@@ -2,7 +2,7 @@
 layout: post
 title: Android Sensei Blog - under construction
 date: 2014-05-31 12:22:50
-share: n
+share: y
 disqus: n
 ---
 

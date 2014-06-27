@@ -5,7 +5,10 @@
 - adjust disqus toggle - done
 - fix mobile UI - done
 - integrate google analytics - done
-- about page and disclaimer
+- about page and disclaimer - done
 - write the first post and publish it
+
+- change theme/start with bootstrap - use the jekyll official site as inspiration for the UI look and feel
+- determine color scheme
 - improve search design
 - improve UI design based on the jekyll oficial site theme (rounded corners, buttons, links)
