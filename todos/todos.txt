@@ -8,6 +8,7 @@
 - about page and disclaimer - done
 - write the first post and publish it
 
+- investigate jekyll boostrap, twitter bootstrap, foundation
 - change theme/start with bootstrap - use the jekyll official site as inspiration for the UI look and feel
 - determine color scheme
 - improve search design
