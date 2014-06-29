@@ -30,5 +30,5 @@ While looking around for an alternative, I first stopped on Wordpress since it i
 <br><br>
 So, I got busy searching for themes and learning more about Jekyll and I ended up picking the [Redcup][redcup] theme which I customized into what you currently see here as version 1.0 of my new blog (updates will follow). I quickly discovered that you can use [Disqus][disqus] or other commenting platforms to integrate them with Jekyll and I've integrated [Addthis] for the social sharing and following options. By the way, you can visit my [about][about] page and give me a ping on one of the social networks listed there.
 <br><br>
-Perhaps in future posts, I'll enter into specific details about working with Jekyll. If you're interested on that, let me know in the comments below.
+Perhaps in future posts, I'll enter into specific details about working with Jekyll. If you're interested in that, let me know in the comments below.
 This being said, I'm looking forward to writing more stuff and hearing from you in the comments or on the social networks :).
