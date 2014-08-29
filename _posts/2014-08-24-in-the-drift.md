@@ -15,9 +15,10 @@ disqus: y
 [anime]: http://en.wikipedia.org/wiki/Anime
 [nicolelis]: http://en.wikipedia.org/wiki/Miguel_Nicolelis
 [wc_kickoff]: https://www.youtube.com/watch?v=fZrvdODe1QI
+[hal]: http://en.wikipedia.org/wiki/HAL_(robot)
+[sankai]: http://asia.stanford.edu/?page_id=3311
 [epoc]: http://www.emotiv.com/epoc.php
 [emotiv_wiki]: http://en.wikipedia.org/wiki/Emotiv_Systems
-[qef]: http://qef.org.uk/latest-news/qef-to-benefit-from-mindtunes
 [nxt]: http://en.wikipedia.org/wiki/Lego_Mindstorms_NXT
 [youtube]: https://www.youtube.com/
 
@@ -31,4 +32,4 @@ Well, it turns out that in this case such Sci Fi movie ideas inspired some of ou
 <br>
 <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/LZrat-VG4Ms" frameborder="0" allowfullscreen></iframe>
 <br>
-Another interesting application for this sort of thechnology which resembles a bit more the above Sci Fi examples is in the domain of medical research for exoskeletons that can help paraplegic people walk again.
+Another interesting application for this sort of thechnology which resembles a bit more the above Sci Fi examples is in the domain of medical research for exoskeletons that can help physically challenged people regain control over their lost motor functions.
