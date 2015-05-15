@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Programming Mantras
+title: Local Data Persistence on Android
 date: 
 share: y
 disqus: y
