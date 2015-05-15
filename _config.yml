@@ -2,7 +2,7 @@ title: Android Sensei
 description: "A blog about Android, Life, the Universe and everything."
 
 port: 3000
-pygments: true
+highlighter: pygments
 
 permalink: /:year/:month/:day/:title.html
 markdown: redcarpet
