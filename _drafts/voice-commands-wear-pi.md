@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sending Voice Commands from Wear to RaspberryPi
-date: 2015-05-15
+date:
 share: y
 disqus: y
 ---
