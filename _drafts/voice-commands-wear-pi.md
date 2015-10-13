@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sending Voice Commands from Wear to RaspberryPi
-date:
 share: y
 disqus: y
 ---
@@ -24,5 +23,5 @@ Ah well, shit happens we said and we decided to move on and still try out our id
         intent.putExtra(RecognizerIntent.EXTRA_LANGUAGE_MODEL,
                 RecognizerIntent.LANGUAGE_MODEL_FREE_FORM);
         startActivityForResult(intent, SPEECH_REQUEST_CODE);
-    }
+}
 {% endhighlight %}

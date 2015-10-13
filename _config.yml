@@ -3,7 +3,6 @@ description: "A blog about Android, Life, the Universe and everything."
 
 port: 3000
 highlighter: pygments
-pygments: true
 
 permalink: /:year/:month/:day/:title.html
 markdown: redcarpet
