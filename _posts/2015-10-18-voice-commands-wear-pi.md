@@ -5,6 +5,7 @@ date: 2015-10-18
 share: y
 disqus: y
 ---
+
 [jp]:https://ro.linkedin.com/in/ioanpaulpirau
 [vali]:https://ro.linkedin.com/pub/valentin-mone/2/386/714
 [florin]:https://ro.linkedin.com/pub/florin-toma/9/229/b67
@@ -15,7 +16,6 @@ disqus: y
 [grovepi]:http://www.dexterindustries.com/grovepi
 [dexterind]:http://www.dexterindustries.com
 [relay]:http://www.seeedstudio.com/wiki/Grove_-_SPDT_Relay(30A)
-
 
 >Or, the hackathon that never was.
 >
