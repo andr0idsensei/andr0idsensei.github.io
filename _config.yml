@@ -13,3 +13,5 @@ owner:
   name: Mihai Campean
   disqus_shortname: andr0idsensei
   twitter: r1k0
+
+exclude: [vendor]
